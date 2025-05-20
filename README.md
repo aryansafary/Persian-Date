@@ -23,7 +23,7 @@
 
 | JalaliDatePickerDialog | HorizontalDatePicker |
 |------------------------|----------------------|
-| ![dialog](./preview/dialog.png) | ![horizontal](./preview/horizontal.png) |
+| ![dialog](./preview/DialogPreview.png) | ![horizontal](./preview/HorizontalPreview.png) |
 
 
 
