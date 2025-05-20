@@ -47,11 +47,11 @@ dependencyResolutionManagement {
 
 ```groovy
 dependencies {
-    implementation 'com.github.aryansafary:Persian-Date:1.0.0'
+    implementation 'com.github.aryansafary:Persian-Date:LAST-VERSION'
 }
 ```
 
-> نسخه‌ی آخر را از [اینجا](https://jitpack.io/#aryansafary/Persian-Date) بررسی کنید.
+
 
 ---
 
