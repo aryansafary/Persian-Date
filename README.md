@@ -1,7 +1,7 @@
 # 📆 Jalali Date Picker for Jetpack Compose [![](https://jitpack.io/v/aryansafary/Persian-Date.svg)](https://jitpack.io/#aryansafary/Persian-Date)
 
 <p align="center">
-  <img src="./preview/poster.jpg" alt="Jalali Date Picker Poster" width="600"/>
+  <img src="/preview/poster.jpg" alt="Jalali Date Picker Poster" width="600"/>
 </p>
 
 کتابخانه‌ای مدرن و قابل‌شخصی‌سازی برای انتخاب تاریخ شمسی (Jalali) در اپلیکیشن‌های اندرویدی با استفاده از Jetpack Compose. این کتابخانه شامل دو کامپوننت زیبا و کاربردی است:
